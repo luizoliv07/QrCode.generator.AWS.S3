@@ -1,4 +1,4 @@
-# QR Code Generator - Spring Boot
+# QR Code Generator - Spring Boot - AWS.S3
 
 Aplicação Java com Spring Boot para geração de QR Codes e upload automático para um bucket da AWS S3.
 
